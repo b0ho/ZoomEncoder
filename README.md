@@ -2,11 +2,16 @@
 
 Before use
 
+
 This program requires ffmpeg, ffprobe and waifu2x-caffe.
 
+
 Therefore, you must download the programs and place them in the same path as the program.
+
 ffmpeg -> ffmpeg.exe
+
 ffprobe -> ffprobe.exe
+
 waifu2x-caffe -> waifu2x\waifu2x.exe (and all files)
 
 
